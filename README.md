@@ -1,2 +1,2 @@
 # AshutoshDevOps
-Edureka Traning
+Edureka Training
